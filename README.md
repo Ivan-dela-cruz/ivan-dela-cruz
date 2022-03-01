@@ -1,9 +1,14 @@
-![Design and Development](https://github.com/Ivan-dela-cruz/ivan-dela-cruz/blob/main/images/skills.png)
+![Design and Development](https://github.com/Ivan-dela-cruz/ivan-dela-cruz/blob/main/images/profile.png)
 
 # Ivan de la Cruz
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+Full-Stack Software Engineer with experience building cloud-native RESTful web services. Front-end experience with  Vue, and React. Server-side experience using Laravel, .Net, and Node.js/Express. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-dela-cruz)](https://github.com/anuraghazra/github-readme-stats)
+Technology has always been my top interest, learning, understanding and adapting to this dynamic field is what I strive to do daily to better myself and the team I work with. Software development has been my greatest desire, to use my creativity to develop and produce content that is powerful, yet simple for everyone.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-dela-cruz&show_icons=true&theme=aura)](https://github.com/Ivan-dela-cruz)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-dela-cruz&layout=compact)](https://github.com/Ivan-dela-cruz)
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
