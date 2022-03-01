@@ -51,7 +51,7 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ivan-dela-cruz&theme=jolly" width="700">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-dela-cruz&show_icons=true&theme=aura)](https://github.com/Ivan-dela-cruz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-dela-cruz&show_icons=true&include_all_commits=true&count_private=true&theme=aura&layout=compact&card_width=700)](https://github.com/Ivan-dela-cruz)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-dela-cruz&layout=compact)](https://github.com/Ivan-dela-cruz)
