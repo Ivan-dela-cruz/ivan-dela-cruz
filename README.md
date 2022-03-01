@@ -21,13 +21,13 @@ Full-Stack Software Engineer with experience building cloud-native RESTful web s
 
 <!-- TODO add in the rest of the URLs here -->
 ### I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/ESO.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/PS.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/Shadowverse.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/Game%20Icons/Steam.png" height="30" /></a>
+<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/discord.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/ESO.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/Xbox.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/PS.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/PoGo.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/Shadowverse.png" height="30" /></a> 
+<a href="" target="blank"><img align="center" src="https://github.com/ivan-dela-cruz/ivan-dela-cruz/blob/main/gameicons/Steam.png" height="30" /></a>
 
 
 ### I'm listening too:
