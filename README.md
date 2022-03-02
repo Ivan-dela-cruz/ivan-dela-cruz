@@ -1,5 +1,5 @@
 ## 👋 Hey everyone, I'm Ivan de la Cruz®™ 👋
-![Design and Development](https://github.com/Ivan-dela-cruz/ivan-dela-cruz/blob/main/images/profile.png)
+![Design and Development](https://github.com/Ivan-dela-cruz/ivan-dela-cruz/blob/main/images/profile2.png)
 
 
 Technology has always been my top interest, learning, understanding and adapting to this dynamic field is what I strive to do daily to better myself and the team I work with. Software development has been my greatest desire, to use my creativity to develop and produce content that is powerful, yet simple for everyone.
